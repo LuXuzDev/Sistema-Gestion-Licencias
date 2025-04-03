@@ -1,2 +1,12 @@
-# Sistema-Gesti-n-Licencias
-Sistema de gestión de licencias de conducción, diseñado para administrar la emisión, renovación y control de licencias de conducción. El sistema centraliza información de conductores, licencias emitidas, exámenes de conducción e infracciones de tránsito.
+## Estado del proyecto: 🚧 En desarrollo 🚧
+
+## 💻 Stack Tecnológico 
+ - Backend	Scala
+ - Frontend	JavaFX/SceneBuilder
+ - Base de Datos	PostgreSQL
+ - Control de Versiones	Git/GitHub
+
+
+## 📌 Notas importantes
+ - El proyecto actualmente no incluye suite de tests (se implementará en futuras versiones)
+ - La documentación se irá actualizando conforme avance el desarrollo
