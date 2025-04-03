@@ -1,6 +1,6 @@
 ## Estado del proyecto: 🚧 En desarrollo 🚧
 
-## 💻 Stack Tecnológico 
+## 💻 Tecnologias
  - Backend	Scala
  - Frontend	JavaFX/SceneBuilder
  - Base de Datos	PostgreSQL
